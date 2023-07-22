@@ -30,17 +30,17 @@ ul {
 }
 
 li {
-    margin-bottom: 18px;
+    margin-bottom: 20px;
     list-style: none;
 }
 
 a {
     background-color: burlywood;
     color: white;
-    padding: 15px;
+    padding: 10px;
     text-decoration: none;
     display: block;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 a:hover {
